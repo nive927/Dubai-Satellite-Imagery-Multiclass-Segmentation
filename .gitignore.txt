@@ -1,3 +1,0 @@
-.ipynb_checkpoints
-train_images
-train_masks
