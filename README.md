@@ -1,5 +1,9 @@
 # Dubai-Satellite-Imagery-Multiclass-Segmentation
 
+## Note: NbViewer to load the code if GitHub doesn't render
+
+Please copy the links of the .ipynb files and paste in this [url](https://nbviewer.org/) if GitHub fails to load it in the browser.
+
 ## Dataset
 <p align="justify">
 <a href="https://humansintheloop.org/">Humans in the Loop</a> has published an open access dataset annotated for a joint project with the <a href="https://www.mbrsc.ae/">Mohammed Bin Rashid Space Center</a> in Dubai, the UAE. The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and annotated with pixel-wise semantic segmentation in 6 classes. The images were segmented by the trainees of the Roia Foundation in Syria.
@@ -24,3 +28,16 @@ The images are densely labeled and contain the following 6 classes:
 ## Transfer Learning from InceptionResNetV2 to U-Net CNN
 - [Data Augmentation](./https://github.com/nive927/Dubai-Satellite-Imagery-Multiclass-Segmentation/blob/main/02-01-Dataset_Augmentation.ipynb)
 - [Model Training and Evaluation](./https://github.com/nive927/Dubai-Satellite-Imagery-Multiclass-Segmentation/blob/main/02-02-Transfer_Learning_InceptionResNetV2_and_U-Net.ipynb)
+
+## Software & Libraries
+- Python >=3.*
+- NumPy
+- Pandas
+- Matplotlib
+- IPython
+- Open-CV
+- Tensorflow
+- Keras
+- Patchify
+- Segmentation models
+- Albumentations
