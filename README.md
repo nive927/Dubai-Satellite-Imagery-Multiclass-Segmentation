@@ -21,13 +21,13 @@ The images are densely labeled and contain the following 6 classes:
 | Unlabeled  | 155 | 155 | 155 |
 
 ## Benchmark Models
-- [Standard U-Net](./https://github.com/nive927/Dubai-Satellite-Imagery-Multiclass-Segmentation/blob/main/01-01-Standard_U-Net.ipynb)
-- [U-Net with Resnet Backbone](./https://github.com/nive927/Dubai-Satellite-Imagery-Multiclass-Segmentation/blob/main/01-02-Unet_with_Resnet_Backbone.ipynb)
-- [DeepLabV3+](./https://github.com/nive927/Dubai-Satellite-Imagery-Multiclass-Segmentation/blob/main/01-03-DeepLabV3%2B_Model.ipynb)
+- [Standard U-Net](./01-01-Standard_U-Net.ipynb)
+- [U-Net with Resnet Backbone](./01-02-Unet_with_Resnet_Backbone.ipynb)
+- [DeepLabV3+](./01-03-DeepLabV3%2B_Model.ipynb)
 
 ## Transfer Learning from InceptionResNetV2 to U-Net CNN
-- [Data Augmentation](./https://github.com/nive927/Dubai-Satellite-Imagery-Multiclass-Segmentation/blob/main/02-01-Dataset_Augmentation.ipynb)
-- [Model Training and Evaluation](./https://github.com/nive927/Dubai-Satellite-Imagery-Multiclass-Segmentation/blob/main/02-02-Transfer_Learning_InceptionResNetV2_and_U-Net.ipynb)
+- [Data Augmentation](./02-01-Dataset_Augmentation.ipynb)
+- [Model Training and Evaluation](./02-02-Transfer_Learning_InceptionResNetV2_and_U-Net.ipynb)
 
 ## Software & Libraries
 - Python >=3.*
