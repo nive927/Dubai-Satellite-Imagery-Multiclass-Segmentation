@@ -1,8 +1,8 @@
 # Dubai-Satellite-Imagery-Multiclass-Segmentation
 
-## Note: NbViewer to load the code if GitHub doesn't render
+## Note: Use Jupyter NbViewer to load the code if GitHub doesn't render
 
-Please copy the links of the .ipynb files and paste in this [url](https://nbviewer.org/) if GitHub fails to load it in the browser.
+Please copy the links of the .ipynb files and paste it in [NbViewer](https://nbviewer.org/) if GitHub fails to load it in the browser.
 
 ## Dataset
 <p align="justify">
