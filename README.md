@@ -11,14 +11,14 @@ Please copy the links of the .ipynb files and paste it in [NbViewer](https://nbv
 
 The images are densely labeled and contain the following 6 classes:
 
-| Name       | R   | G   | B   |
-| ---------- | --- | --- | --- |
-| Building   | 60  | 16  | 152 |
-| Land       | 132 | 41  | 246 |
-| Road       | 110 | 193 | 228 |
-| Vegetation | 254 | 221 | 58  |
-| Water      | 226 | 169 | 41  |
-| Unlabeled  | 155 | 155 | 155 |
+| Name       | R   | G   | B   | Color |
+| ---------- | --- | --- | --- |-------|
+| Building   | 60  | 16  | 152 |![#3b1098](https://via.placeholder.com/15/3b1098/000000?text=+) `#3b1098`|
+| Land       | 132 | 41  | 246 |![#8529f6](https://via.placeholder.com/15/8529f6/000000?text=+) `#8529f6`|
+| Road       | 110 | 193 | 228 |![#6ec1e4](https://via.placeholder.com/15/6ec1e4/000000?text=+) `#6ec1e4`|
+| Vegetation | 254 | 221 | 58  |![#fedd3a](https://via.placeholder.com/15/fedd3a/000000?text=+) `#fedd3a`|
+| Water      | 226 | 169 | 41  |![#e2aa29](https://via.placeholder.com/15/e2aa29/000000?text=+) `#e2aa29`|
+| Unlabeled  | 155 | 155 | 155 |![#9b9b9b](https://via.placeholder.com/15/9b9b9b/000000?text=+) `#9b9b9b`|
 
 ## Benchmark Models
 - [Standard U-Net](./01-01-Standard_U-Net.ipynb)
