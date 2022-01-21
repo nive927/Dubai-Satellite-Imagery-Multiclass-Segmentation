@@ -39,5 +39,5 @@ The images are densely labeled and contain the following 6 classes:
 - Tensorflow
 - Keras
 - Patchify
-- Segmentation models
-- Albumentations
+- [Segmentation Models](https://github.com/qubvel/segmentation_models)
+- [Albumentations](https://albumentations.ai/)
